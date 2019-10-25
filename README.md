@@ -12,6 +12,7 @@ Features
 ------
 - Interface discovery
   - General disovery interfaces rule
+    - Interface Utilization
   - IRB disovery rule
 - Hardware discovery
 
